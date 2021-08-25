@@ -1,5 +1,5 @@
 # FastAI_bears
-Repo for FastAI Deep Learning practice
+Repo for FastAI Deep Learning practice Lesson 2: image classifier
 
 Bears: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kelseymour/FastAI_bears/HEAD?urlpath=%2Fvoila%2Frender%2FBears.ipynb)
 
